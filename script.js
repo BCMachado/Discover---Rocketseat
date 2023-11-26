@@ -16,3 +16,15 @@ function toggleMode() {
   img.setAttribute("src", "./assets/avatar.png")
   }
 }
+
+
+function toggleAboutMe() {
+var aboutMe = document.getElementById("about-me");
+aboutMe.style.display = aboutMe.style.display === "none" ? "block" : "none";
+}
+
+
+
+
+
+    

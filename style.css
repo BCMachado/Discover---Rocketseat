@@ -205,3 +205,19 @@ footer {
     left: 0;
   }
 }
+
+#about-me {
+  display: flex;
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  border-radius: 8px;
+      }
+
+#about-me p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-color);
+      }
+
+
