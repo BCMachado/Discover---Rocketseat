@@ -220,4 +220,29 @@ footer {
   color: var(--text-color);
       }
 
+.competencias-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px; /* Ajuste conforme necessário para o espaçamento */
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.competencias-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.competencias-icon {
+  font-size: 30px; /* Ajuste conforme necessário para o tamanho dos ícones */
+  margin: 10px; /* Adicione um espaçamento uniforme em todos os lados dos ícones */
+  color: var(--text-color) /* Cor dos ícones (substitua pela cor desejada) */
+}
+
+
+
+
 
